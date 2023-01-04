@@ -1,0 +1,22 @@
+Sr. No|Road Name|Ward|TYPE|REMARK|Road Start|Road End|KM|Man Power|Remark||
+1|P.L.LOKHANDE& R.C.MARG|M WEST|Road|Last Time|Narayan Guru Collage|Amer Mahal Bridage|2.50|30|Signal 1|aditya|
+2|P.L.LOKHANDE& R.C.MARG|M WEST|Road|Last Time|Thakkar bappa colony RD|Swastik Park Society|2.20||Metro work in progress||
+3|P.L.LOKHANDE& R.C.MARG|M WEST|Road|Last Time|Swastik PARK|Chembur Naka|1.70||Metro work in progress||
+4|P.L.LOKHANDE& R.C.MARG|M WEST|Road|Last Time|Chembur naka|Fine Arts|1.90|30||aditya|
+5|SHIVAJI CHOWK TO CHEMBUR CAMP|M WEST|Road|Last Time|Vadvli|Navjivan Society|2.30|30|Signal 1|sameerrikame|
+6|SIGNAL TO BASANT PARK TO BHAKTI BHAVAN SIGNAL|M WEST|Road|Last Time|navjivan|bhakti bhavan signal|2.40|30|Signal 1|vijay|
+7|MAITRI PARK TO CHEMBUR NAKA TO AMBEDKAR GARDEN TO SANDUGARDEN|M WEST|Road|Last Time|N.G.Acharya Garden|chembur naka signal|1.80||Metro work in progress||
+8|MAITRI PARK TO CHEMBUR NAKA TO AMBEDKAR GARDEN TO SANDUGARDEN|M WEST|Road|Last Time|Diamond garden&Ambedkar garden|ING Vysya bank|2.00|30||akshay|
+9|MAITRI PARK TO CHEMBUR NAKA TO AMBEDKAR GARDEN TO SANDUGARDEN|M WEST|Road|Last Time|Sandu garden bus stand|Chembur bridge (bhulingeshwar mandir)|2.00|30||akshay|
+10|PANJARAPOL SIGNAL TO AATUR PARK TO SUBHAS NAGAR TOCHEMBUR POLICE CHOWKI|M WEST|Road|Last Time|Shivaji maharaj Chowk|N.G.Acharya Garden|1.90||Metro work in progress||
+11|PANJARAPOL SIGNAL TO AATUR PARK TO SUBHAS NAGAR TOCHEMBUR POLICE CHOWKI|M WEST|Road|Last Time|Road no 16|Road no 11 ( SUBHAS NAGAR ROAD )|2.00|30||vinodambre|
+12|SHIVAJI CHOWK TO CHEMBUR STATION TO TILAK NAGAR STATION|M WEST|Road|Last Time|Borbadevi Chowk|Chembur Station|2.40|30||vinodambre|
+13|SHIVAJI CHOWK TO CHEMBUR STATION TO TILAK NAGAR STATION|M WEST|Road|Last Time|Selva vinaygar temple|Suman nagar chowki|1.90|30||vinay|
+14|FREE WAY TO KURLA SIGNAL TO AMAR MAHAL BRIDGE|M WEST|Road|Last Time|Anik Depot|kurla signal|2.00||Metro work in progress||
+15|FREE WAY TO KURLA SIGNAL TO AMAR MAHAL BRIDGE|M WEST|Road|Last Time|Thakkar bappa chowk|Amar mahal|2.00|30||vinay|
+16|SWASTIK PARK TO SUMAN NAGAR|M WEST|Road|Last Time|swastik signal|Suman nagar circule|2.00||Metro work in progress||
+17|R.C. MARG|M WEST|Road||Chembur Camp|Ashish Theatre Both Side|1.80|20||sameerrikame|
+18|R.C. MARG|M WEST|Road||Ashish Theatre|Shankar Mandir|2.00|20||sameerrikame|
+19|R.C. MARG|M WEST|Road||Mysore Colony Monorail Station|Mahul Village|2.00|20||sameerrikame|
+20|Tilak Nagar|M WEST|Road||Sahkar Cinema|Tilak Nagar Police Station Both side|2.00|20||viraj|
+21|R.C. MARG|M WEST|Road||Jijamata Nagar|Ashish Theatre Both Side|1.90|20||akshay|
